@@ -125,13 +125,13 @@ Interactive data storytelling on environmental monitoring across elevational gra
 
 Over **6+ years**, I've grown from cloud and platform engineering into a **client-facing Web Developer & Solution Engineer** — with web development at the core throughout.
 
-| Role | Company | Focus |
-|------|---------|-------|
-| 🌐 **Web Consultant** | SSVN Technologies, USA · *2025–Present* | Building & deploying responsive websites and web apps; client requirements → web/cloud solutions; AI-integrated web features |
-| 🔬 **Research Assistant** | University of Vermont · *2024–2025* | Real-time data pipelines (Kafka, Python, MySQL); web platform for environmental monitoring |
-| ⚙️ **Site Reliability Engineer** | Zaloni (Truist), India · *2022–2023* | Data pipeline automation & API workflows; 100% SLA for enterprise banking SaaS |
-| 🧪 **Application Engineer** | LambdaTest, India · *2021–2022* | Web & mobile app testing on cloud SaaS; CI/CD optimization; REST API workflows |
-| 📞 **Technical Engineer** | Knowlarity Communications, India · *2020–2021* | Low-code workflows & REST API / CRM integrations (Salesforce, Zoho, Zendesk) |
+| Role | Company | Years | Focus |
+|------|---------|:-----:|-------|
+| 🌐 **Web Consultant** | SSVN Technologies | 2025–Present | Building & deploying responsive websites and web apps; client requirements → web/cloud solutions; AI-integrated web features |
+| 🔬 **Research Assistant** | University of Vermont | 2024–2025 | Real-time data pipelines (Kafka, Python, MySQL); web platform for environmental monitoring |
+| ⚙️ **Site Reliability Engineer** | Zaloni (Truist) | 2022–2023 | Data pipeline automation & API workflows; 100% SLA for enterprise banking SaaS |
+| 🧪 **Application Engineer** | LambdaTest | 2021–2022 | Web & mobile app testing on cloud SaaS; CI/CD optimization; REST API workflows |
+| 📞 **Technical Engineer** | Knowlarity | 2020–2021 | Low-code workflows & REST API / CRM integrations (Salesforce, Zoho, Zendesk) |
 
 > 🧭 **Common thread:** translating business needs into working, deployed web & cloud solutions — from prototype to production.
 
