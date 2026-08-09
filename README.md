@@ -137,21 +137,40 @@ Over **6+ years**, I've grown from cloud and platform engineering into a **clien
 
 ---
 
-<!-- ============== GITHUB STATS ============== -->
+<!-- ============================================================
+     GITHUB STATS
+     ------------------------------------------------------------
+     ⚠️  RELIABILITY NOTE:
+     The stats + top-langs cards below use the PUBLIC server
+     github-readme-stats.vercel.app, which is often RATE-LIMITED
+     and may show as broken images. To make them ALWAYS load:
+
+     1. Go to  https://github.com/anuraghazra/github-readme-stats
+     2. Click "Deploy" (bottom of the README) → deploy to YOUR Vercel account
+     3. You'll get your own URL like:  your-app-name.vercel.app
+     4. Replace every "github-readme-stats.vercel.app" below with it.
+     Your private instance never rate-limits, so cards always render.
+     ============================================================ -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vdondeti5461&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vdondeti5461&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vdondeti5461&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Vamsi's GitHub Stats" />
+  &nbsp;
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vdondeti5461&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vdondeti5461&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vdondeti5461&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Optional: contribution activity graph (reliable host). Uncomment to use:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vdondeti5461&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vdondeti5461&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
+-->
+
+<!-- Trophy card removed: it depends on the same rate-limited host and was
+     the most likely to break. Re-add after self-hosting if you want it. -->
 
 ---
 
