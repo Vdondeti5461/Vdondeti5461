@@ -125,52 +125,42 @@ Interactive data storytelling on environmental monitoring across elevational gra
 
 Over **6+ years**, I've grown from cloud and platform engineering into a **client-facing Web Developer & Solution Engineer** — with web development at the core throughout.
 
-| Role | Company | Years | Focus |
-|------|---------|:-----:|-------|
-| 🌐 **Web Consultant** | SSVN Technologies | 2025–Present | Building & deploying responsive websites and web apps; client requirements → web/cloud solutions; AI-integrated web features |
-| 🔬 **Research Assistant** | University of Vermont | 2024–2025 | Real-time data pipelines (Kafka, Python, MySQL); web platform for environmental monitoring |
-| ⚙️ **Site Reliability Engineer** | Zaloni (Truist) | 2022–2023 | Data pipeline automation & API workflows; 100% SLA for enterprise banking SaaS |
-| 🧪 **Application Engineer** | LambdaTest | 2021–2022 | Web & mobile app testing on cloud SaaS; CI/CD optimization; REST API workflows |
-| 📞 **Technical Engineer** | Knowlarity | 2020–2021 | Low-code workflows & REST API / CRM integrations (Salesforce, Zoho, Zendesk) |
+| Role | Company | Focus |
+|------|---------|-------|
+| 🌐 **Web Consultant** | SSVN Technologies | Building & deploying responsive websites and web apps; client requirements → web/cloud solutions; AI-integrated web features |
+| 🔬 **Research Assistant** | University of Vermont | Real-time data pipelines (Kafka, Python, MySQL); web platform for environmental monitoring |
+| ⚙️ **Site Reliability Engineer** | Zaloni (Truist) | Data pipeline automation & API workflows; 100% SLA for enterprise banking SaaS |
+| 🧪 **Application Engineer** | LambdaTest | Web & mobile app testing on cloud SaaS; CI/CD optimization; REST API workflows |
+| 📞 **Technical Engineer** | Knowlarity | Low-code workflows & REST API / CRM integrations (Salesforce, Zoho, Zendesk) |
 
 > 🧭 **Common thread:** translating business needs into working, deployed web & cloud solutions — from prototype to production.
 
 ---
 
-<!-- ============================================================
-     GITHUB STATS
-     ------------------------------------------------------------
-     ⚠️  RELIABILITY NOTE:
-     The stats + top-langs cards below use the PUBLIC server
-     github-readme-stats.vercel.app, which is often RATE-LIMITED
-     and may show as broken images. To make them ALWAYS load:
-
-     1. Go to  https://github.com/anuraghazra/github-readme-stats
-     2. Click "Deploy" (bottom of the README) → deploy to YOUR Vercel account
-     3. You'll get your own URL like:  your-app-name.vercel.app
-     4. Replace every "github-readme-stats.vercel.app" below with it.
-     Your private instance never rate-limits, so cards always render.
-     ============================================================ -->
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vdondeti5461&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Vamsi's GitHub Stats" />
-  &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vdondeti5461&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vdondeti5461&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Optional: contribution activity graph (reliable host). Uncomment to use:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vdondeti5461&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
--->
+<!-- ============================================================
+     NOTE: The "GitHub Stats" and "Top Languages" cards were
+     removed because they rely on the shared public server
+     github-readme-stats.vercel.app, which is heavily rate-limited
+     and kept rendering as broken images.
 
-<!-- Trophy card removed: it depends on the same rate-limited host and was
-     the most likely to break. Re-add after self-hosting if you want it. -->
+     To add them back so they ALWAYS load, self-host your own copy:
+       1. Go to https://github.com/anuraghazra/github-readme-stats
+       2. Click "Deploy" → deploy to YOUR own free Vercel account
+       3. You'll get a URL like  your-app-name.vercel.app
+       4. Paste the two <img> lines below, swapping the domain:
+
+     <p align="center">
+       <img height="165em" src="https://YOUR-APP.vercel.app/api?username=Vdondeti5461&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Vamsi's GitHub Stats" />
+       &nbsp;
+       <img height="165em" src="https://YOUR-APP.vercel.app/api/top-langs/?username=Vdondeti5461&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+     </p>
+     ============================================================ -->
 
 ---
 
