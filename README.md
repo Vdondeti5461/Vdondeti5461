@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Vdondeti5461">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Solution+Engineer;6%2B+years+building+web+%26+cloud+products;Turning+business+goals+into+web+applications;Integrating+AI+into+real-world+web+products;From+prototype+to+production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Solution+Engineer;6%2B+years+building+web+%26+cloud+products;Building+web+apps+from+business+goals;Integrating+AI+into+real-world+web+products;From+prototype+to+production" alt="Typing SVG" />
   </a>
 </p>
 
