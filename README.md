@@ -12,13 +12,14 @@
 
 <p align="center">
   <a href="https://github.com/Vdondeti5461">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Web+Developer+%26+Solution+Engineer;Turning+business+goals+into+web+products;Building+AI-powered+web+applications;From+prototype+to+production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Solution+Engineer;6%2B+years+building+web+%26+cloud+products;Turning+business+goals+into+web+applications;Integrating+AI+into+real-world+web+products;From+prototype+to+production" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-2E9EF7?style=for-the-badge&logo=react&logoColor=white" alt="Web Developer" />
   <img src="https://img.shields.io/badge/Solution%20Engineer-1F6FEB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Solution Engineer" />
+  <img src="https://img.shields.io/badge/6%2B%20Years%20Experience-8957E5?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Experience" />
   <img src="https://img.shields.io/badge/📍%20Austin,%20TX-USA-16A34A?style=for-the-badge" alt="Location" />
 </p>
 
@@ -31,14 +32,15 @@
 <!-- ============== ABOUT ME ============== -->
 ## 🧠 About Me
 
-🌐 **Web Developer and Solution Engineer** who turns business goals into responsive, production-ready web applications and AI-powered products.
+🌐 **Web Developer and Solution Engineer** with **6+ years** of experience turning business goals into responsive, production-ready **web applications** and AI-powered products.
 
-- 🤝 I partner directly with clients — gathering requirements, architecting solutions, and shipping from **prototype to production** across cloud and hosting environments.
-- 🤖 I integrate **LLM / RAG assistants and automation workflows** into web products to boost engagement and efficiency.
-- 📊 I bring a background in **real-time data engineering** and **published research**.
+- 🖥️ I **design, build, and deploy** responsive websites and web applications — owning solutions from **prototype through production** across cloud and hosting environments.
+- 🤝 I partner directly with clients as a technical consultant — gathering requirements, architecting solutions, and presenting technical walkthroughs to business and engineering stakeholders.
+- 🤖 I integrate **LLM / RAG assistants and automation workflows** into web products to boost engagement and operational efficiency.
+- 📊 I bring a strong foundation in **real-time data engineering**, **cloud (AWS / Google Cloud)**, and **published research**.
 - 🎓 **M.S. in Computer Science**, University of Vermont.
 
-🎯 **Career Goals:** Building impactful web products in **Web Developer / Solution Engineer** roles — bridging client needs with clean, scalable engineering, and integrating AI into real-world applications.
+🎯 **Career Goals:** Growing as a **Web Developer / Solution Engineer** — bridging client needs with clean, scalable web engineering, and building AI-integrated web products that deliver real value.
 
 💡 **Fun Fact:** I presented a research poster at the **CIROH DevCon 2026** conference in Utah, and had a poster accepted & published at **PEARC'26** — bridging hands-on engineering with published academic work.
 
@@ -70,6 +72,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A154B?style=for-the-badge&logo=webhooks&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Databases & Data**
 
@@ -98,7 +101,7 @@
 ## 🚀 Featured Projects
 
 ### 🌐 CRREL Summit-2-Shore (S2S) Platform
-A full web platform I **designed and built end to end** — a real-time environmental data pipeline plus web application for statewide climate, snowpack, and hydrological monitoring. Owned the front-end, data pipeline, and deployment.
+A full web platform I **designed and built end to end** — a real-time environmental data pipeline plus web application for statewide climate, snowpack, and hydrological monitoring. Owned the **front-end, data pipeline, and deployment**.
 - **Tech Stack:** React · Python · Apache Kafka · MySQL · ETL · Cloud
 - 🔗 **Live Site:** [crrels2s.w3.uvm.edu](https://crrels2s.w3.uvm.edu/)
 - 📄 **Research:** [crrels2s.w3.uvm.edu/research](https://crrels2s.w3.uvm.edu/research)
@@ -114,6 +117,23 @@ Interactive data storytelling on environmental monitoring across elevational gra
 - 🔗 **Live Story:** [View StoryMap](https://storymaps.arcgis.com/stories/abbc61d41e4243b48d2fb75e55b0981d)
 
 <!-- TODO: add more web/client projects here as GitHub repos go public -->
+
+---
+
+<!-- ============== PROFESSIONAL JOURNEY ============== -->
+## 💼 Professional Journey
+
+Over **6+ years**, I've grown from cloud and platform engineering into a **client-facing Web Developer & Solution Engineer** — with web development at the core throughout.
+
+| Role | Company | Focus |
+|------|---------|-------|
+| 🌐 **Web Consultant** | SSVN Technologies, USA · *2025–Present* | Building & deploying responsive websites and web apps; client requirements → web/cloud solutions; AI-integrated web features |
+| 🔬 **Research Assistant** | University of Vermont · *2024–2025* | Real-time data pipelines (Kafka, Python, MySQL); web platform for environmental monitoring |
+| ⚙️ **Site Reliability Engineer** | Zaloni (Truist), India · *2022–2023* | Data pipeline automation & API workflows; 100% SLA for enterprise banking SaaS |
+| 🧪 **Application Engineer** | LambdaTest, India · *2021–2022* | Web & mobile app testing on cloud SaaS; CI/CD optimization; REST API workflows |
+| 📞 **Technical Engineer** | Knowlarity Communications, India · *2020–2021* | Low-code workflows & REST API / CRM integrations (Salesforce, Zoho, Zendesk) |
+
+> 🧭 **Common thread:** translating business needs into working, deployed web & cloud solutions — from prototype to production.
 
 ---
 
@@ -140,7 +160,8 @@ Interactive data storytelling on environmental monitoring across elevational gra
 
 - 🎤 Presented a research poster at **CIROH DevCon 2026**, Utah
 - 📄 Poster accepted & published at **PEARC'26**
-- 📝 Co-author — *NGPE: A Next-Generation Operational Workflow for Precipitation Estimation at River Forecast Centers* → [ACM Digital Library](https://dl.acm.org/doi/10.1145/3785462.3815835)
+- 📝 Co-author — *NGPE: A Next-Generation Operational Workflow for Precipitation Estimation at River Forecast Centers*, PEARC'26 → [ACM Digital Library](https://dl.acm.org/doi/10.1145/3785462.3815835)
+- 🏔️ Contributor — *Monitoring Meteorology and Snow in Mountains across Elevational Gradients (Northeast Appalachians)*, **IMC'25**
 - 🔬 Research contributions indexed on [ResearchGate](https://www.researchgate.net/scientific-contributions/Vamsi-Naidu-Dondeti-2361518139)
 
 ---
@@ -152,7 +173,7 @@ Interactive data storytelling on environmental monitoring across elevational gra
 ![LLMs](https://img.shields.io/badge/LLMs%20%7C%20RAG-412991?style=for-the-badge&logo=probot&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20Workflows-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-> Deepening my work in **Artificial Intelligence** — LLMs, RAG, and agentic AI workflows.
+> Deepening my work in **Artificial Intelligence** — LLMs, RAG, and agentic AI workflows — and applying them to web products.
 
 ---
 
