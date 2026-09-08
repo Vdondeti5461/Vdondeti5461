@@ -32,7 +32,7 @@
 <!-- ============== ABOUT ME ============== -->
 ## 🧠 About Me
 
-🌐 **Web Developer and Solution Engineer turning business goals into responsive, production-ready **web applications** and AI-powered products.
+🌐 Web Developer and Solution Engineer turning business goals into responsive, production-ready **web applications** and AI-powered products.
 
 - 🖥️ I **design, build, and deploy** responsive websites and web applications — owning solutions from **prototype through production** across cloud and hosting environments.
 - 🤝 I partner directly with clients as a technical consultant — gathering requirements, architecting solutions, and presenting technical walkthroughs to business and engineering stakeholders.
